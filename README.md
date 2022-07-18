@@ -11,6 +11,12 @@ I'va made it using a dedicated API.
 * 🌈 CSS3
 * 🟨 Vanilla JavaScript
 
+![pop-undefined preview](/src/assets/pop-undefined_preview.png "pop-undefined preview")
+
+### Check it
+
+The app is currently live at [pop-undefined.netlify.app](https://pop-undefined.netlify.app/)
+
 ### Thoughts
 
 > Work in progress.
