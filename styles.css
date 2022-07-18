@@ -30,15 +30,18 @@ h1 {
 
 div {
     border: 1px solid #ffffff33;
+
+    background-color: transparent;
+    transition: background-color .4s ease .3s;
+
     padding: .3rem 1rem;
 }
 
 div:hover {
-    transition: all .3s ease-in-out;
-    cursor: pointer;
-
     background-color: #ffffff33;
     color: #7ea5ff;
+
+    cursor: pointer;
 }
 
 .pop-block {
