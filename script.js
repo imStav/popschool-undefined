@@ -5,7 +5,6 @@ async function getAllStudents() {
       );
   
       const response = await all.json();
-      console.log(response);
 
       // Generates a div and inserts firstname, lastname and gender, for each student
       const students = Array.from(response.students).forEach(student => {
