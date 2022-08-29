@@ -16,7 +16,3 @@ I'va made it using a dedicated API.
 ### Check it
 
 The app is currently live at [pop-undefined.netlify.app](https://pop-undefined.netlify.app/)
-
-### Thoughts
-
-> Work in progress.
