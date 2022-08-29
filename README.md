@@ -2,8 +2,8 @@
 
 ## The project
 
-This is just a small Vanilla JavaScript that aims to introduce my Pop School class composition.
-I'va made it using a dedicated API.
+This is just a small Vanilla JavaScript project that aims to introduce my Pop School class composition.
+I'va made it using a dedicated REST API.
 
 ### Technologies
 
@@ -13,6 +13,6 @@ I'va made it using a dedicated API.
 
 ![pop-undefined preview](/assets/pop-undefined_preview.png "pop-undefined preview")
 
-### Check it
+### Visit
 
 The app is currently live at [pop-undefined.netlify.app](https://pop-undefined.netlify.app/)
