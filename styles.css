@@ -68,6 +68,8 @@ div:hover {
         
         height: auto;
         width: 75%;
+
+        font-size: .8rem;
     }
 
     .pop-block {
